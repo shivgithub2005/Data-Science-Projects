@@ -6,3 +6,6 @@ This project aims to predict house prices using machine learning. It involves da
 
 # 2. Churn Prediction using Logistic Regression
 This project aims to predict customer churn using logistic regression. Customer churn refers to the phenomenon where customers stop using a company's products or services. By identifying potential churners, businesses can take proactive measures to retain their customers, ultimately improving customer satisfaction and increasing revenue
+
+# Credit Card Fraud Detection using Logistic Regression
+This project aims to detect credit card fraud using logistic regression. By analyzing transaction data, we can identify potentially fraudulent activities and minimize financial loss for cardholders and banks.
